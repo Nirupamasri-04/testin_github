@@ -1,0 +1,6 @@
+#marks = int(input ("enter the marks" ))
+#print(marks)
+#print(type(marks))
+marks = str(int(input ("enter the marks" )))
+print(marks)
+print(type(marks))
